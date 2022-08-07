@@ -11,4 +11,5 @@ https://www.youtube.com/watch?v=JR0jSscNNd4
 ```
 npm i
 ```
-Frontend의 경우 node_modules 파일을 제거한 상태입니다. 프로젝트를 열었으면 위 명령어를 입력해서 필요 모듈을 설치해주세요.
+Frontend의 경우 node_modules 파일을 제거한 상태입니다.  
+프로젝트를 열었으면 위 명령어를 입력해서 필요 모듈을 설치해주세요.
