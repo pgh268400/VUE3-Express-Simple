@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=JR0jSscNNd4
  - Vue3 => Frontend
  - Node.js + Express => Backend
  
- DB는 사용되지 않았고 하드코딩으로 ID, PW를 관리합니다.  
+ DB는 사용되지 않았고 하드코딩(전역변수)으로 ID, PW를 관리합니다.  
  
 ```
 npm i
